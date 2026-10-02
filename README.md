@@ -6,6 +6,7 @@ Community-maintained collection of slash-style prompt commands, macros and image
 
 ## Languages
 
+- 🇬🇧 [English](EN/README.md) — 795 entries, 32 categories
 - 🇮🇹 [Italiano](ITA/README.md) — 795 entries, 32 categories
 - 🇫🇷 [Français](FR/README.md) — 795 entrées, 32 catégories
 
