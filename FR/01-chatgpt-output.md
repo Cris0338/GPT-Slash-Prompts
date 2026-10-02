@@ -44,7 +44,7 @@ Commande | Action
 `/a4` | [MACRO] Adapter la structure et les proportions à une page A4.
 `/a5` | [MACRO] Adapter la structure et les proportions à une page A5.
 `/landscape` | [MACRO] Préfère une disposition horizontale.
-`/portrait` | [MACRO] Portrait photographique du sujet.
+`/portrait` | [MACRO] Privilégie une mise en page verticale.
 `/toc` | [MACRO] Ajoute un index/table des matières structuré(e).
 `/glossary` | [MACRO] Ajoute un glossaire des termes utilisés.
 `/brief` | [MACRO] Fournit une réponse brève et centrée sur les points essentiels.
