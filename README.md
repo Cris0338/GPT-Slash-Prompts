@@ -6,30 +6,35 @@ Community-maintained collection of slash-style prompt commands, macros and image
 
 ## Languages
 
-- 🇬🇧 [English](EN/README.md) — 795 entries, 32 categories
-- 🇮🇹 [Italiano](ITA/README.md) — 795 entries, 32 categories
-- 🇫🇷 [Français](FR/README.md) — 795 entrées, 32 catégories
+- 🇬🇧 [English](EN/README.md) — **988 entries · v1.2**
+- 🇮🇹 [Italiano](ITA/README.md) — **988 voci · v1.2**
+- 🇫🇷 [Français](FR/README.md) — **988 entrées · v1.2**
 
-Open a language, scroll to the category you need, copy the `/command`, and paste it directly into your prompt.
+Open a language, choose the topic you need, copy the `/command`, and paste it directly into your prompt.
 
 ## What is in this repository?
 
-- **NATIVE / NATIVO / NATIF** — documented product command where available.
+- **NATIVE — CHATGPT / CODEX / OPENAI** — commands documented by OpenAI for the relevant product/environment.
 - **UI/MENU** — shortcut or menu action whose exact label may vary by platform/version.
-- **MACRO** — community prompt shorthand; not an official ChatGPT command.
-- **IMAGE KEYWORD / KEYWORD IMMAGINE / MOT-CLÉ IMAGE** — visual prompting keyword written with `/` as a convenient convention.
+- **MACRO** — community prompt shorthand; not an official hidden ChatGPT command.
+- **MACRO ALIAS** — alternative spelling of an equivalent macro.
+- **IMAGE KEYWORD** — visual prompting keyword written with `/` as a practical convention.
 
-> Many entries are prompt macros or keywords, **not hidden or official ChatGPT commands**. The slash syntax is used as a practical shorthand.
+> Availability of native commands depends on the OpenAI product, platform, version and enabled features. Community macros and image keywords are prompting conventions, not secret built-in commands.
+
+## v1.2
+
+v1.2 expands the catalogue from **795 to 988 entries per language**:
+
+- **186 new commands/usages**, including documented ChatGPT Desktop and Codex slash commands plus useful community macros and image keywords.
+- **7 alias spellings** collected from public cheat sheets (`/tldr`, `/step-by-step`, `/executive-summary`, `/pros-cons`, `/plainenglish`, `/action-plan`, `/risks`).
+- Clearer labels separating native OpenAI commands from community shorthand.
 
 ## Contributing
 
 Contributions are welcome. Add commands, improve descriptions, correct mistakes or propose new translations through a Pull Request or an Issue.
 
-Keep it simple: **one command + one clear description**.
-
-## Version
-
-Current catalogue: **v1.1 — 795 entries per language**.
+Keep it simple: **one command + one clear description**. If a command is product-native, include the official source when possible.
 
 ## License
 
